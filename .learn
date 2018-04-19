@@ -7,3 +7,5 @@ languages:
 level: 1
 type:
   - mini-lab
+
+parent_template: git@github.com:learn-co-curriculum/upperline-hs-hash-iteration-mini-lab.git
