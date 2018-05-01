@@ -13,7 +13,7 @@
 The 1996 summer olympics took place in Atlanta. Add this information to the hash.
 
 ### Iterate Through the Hash
-Use the .each method to iterate through the `summer_olympics` hash and for each key-value pair`puts` a string that reads "The _____ summer olympics took place in ______."
+Use the .each method to iterate through the `summer_olympics` hash and for each key-value pair `puts` a string that reads "The _____ summer olympics took place in ______."
 
 ### Iterate Through the Keys
 Use the `each_key` method to return an array of the cities where each city name has been upcased. Save this to a new variable called `upcased_cities` and `puts` this to the screen.
