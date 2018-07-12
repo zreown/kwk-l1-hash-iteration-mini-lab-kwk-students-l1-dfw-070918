@@ -13,7 +13,7 @@ def add_a_key_value_pair
 end
 
 def iterate_through_hash
-   add_a_key_value_pair.each 
+   add_a_key_value_pair.each do |new_city, new_date| 
    
    
   # and puts each key value pair within the phrase "The _____ summer olympics took place in _____."
