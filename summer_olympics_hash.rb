@@ -14,7 +14,7 @@ end
 
 def iterate_through_hash
    add_a_key_value_pair.each do |new_city, new_date| 
-  puts "The #{new_date} summer olympics took plave in #{new_city}."
+  puts "The #{new_city} summer olympics took place in #{new_date}."
   end
 end
 
